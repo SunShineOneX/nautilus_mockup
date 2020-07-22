@@ -1,10 +1,11 @@
 import React from 'react';
-
 import './App.css';
+import Channels from "./components/Channels";
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Channels />
     </div>
   );
 }
