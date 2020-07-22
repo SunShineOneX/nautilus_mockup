@@ -12,7 +12,10 @@ function Channels() {
             <div class="card-deck" id="card-deck">
                 <div class="row">
                     <div class="col-lg-4">
-                        
+                        <div id="card" class="card">
+                            
+                        </div>
+
                     </div>
                 </div>
             </div>
