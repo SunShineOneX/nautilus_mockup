@@ -3,6 +3,15 @@
     margin: 0;
 }
 
+p {
+    margin-bottom: 0;
+}
+
+.sub-title {
+    padding-top: 1vh;
+    font-size: 12px;
+}
+
 .head-container {
     text-align: center;
     font-style: italic;
@@ -17,17 +26,21 @@
 }
 
 .card {
-    padding: 1vw;
+    padding: 1vw 1vw 0 1vw;
     border: 0;
     margin: 0;
     width: 20vw;  
 }
 
-.card-images {
-
-}
 
 .card-deck {
     justify-content: center;
     padding-top: 3vh;
+    margin-bottom: 0;
+}
+
+.author {
+    font-style: italic;
+    font-size: 10px;
+    padding-top: 0;
 }
