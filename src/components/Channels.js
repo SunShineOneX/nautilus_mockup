@@ -84,8 +84,8 @@ function Channels() {
                         <div id="card" class="card">
                             <p>Aging</p>
                             <img class="card-images" src={require("../assets/aging.png")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Your Brain Is On the Brink of Chaos</p>
-                            <p class="author">by Kelly Clancy</p>
+                            <p class="sub-title">Yes, Life in the Fast Lane Kills You</p>
+                            <p class="author">by Phillip Ball</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
