@@ -101,12 +101,12 @@ function Channels() {
                 {/* Fourth Row */}
                 
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4" id="last-container">
                         <div id="card" class="card">
                             <p>MP<strong>Neuro</strong></p>
                             <img class="card-images" src={require("../assets/maxplanck.jpeg")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Making Sense of the Genome at Last</p>
-                            <p class="author">by Adam Piere</p>
+                            <p class="sub-title">Understanding the Brain with the Help of Artificial Intelligence</p>
+                            <p class="author">by Max Planck Institute of Neurobiology</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
