@@ -24,6 +24,7 @@ function Channels() {
                         <div class="col-lg-4">
                         <div id="card" class="card">
                             <p><strong>QUANTA</strong> ABSTRACTIONS</p>
+                            <img class="images" src={require("../assets/abstractions.jpeg")}className="card-img-top frag" alt=""></img>
                         </div>
                         </div>
                     </div>
