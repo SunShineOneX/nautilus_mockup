@@ -17,13 +17,14 @@
 }
 
 .card {
-    padding: 10vh;
+    padding: 1vw;
     border: 0;
     margin: 0;
+    width: 20vw;  
 }
 
-.row {
-   
+.card-images {
+
 }
 
 .card-deck {
