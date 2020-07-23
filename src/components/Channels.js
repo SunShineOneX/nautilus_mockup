@@ -76,8 +76,8 @@ function Channels() {
                         <div id="card" class="card">
                             <p>POETRY IN SCIENCE</p>
                             <img class="card-images" src={require("../assets/poetry.jpeg")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Making Sense of the Genome at Last</p>
-                            <p class="author">by Adam Piere</p>
+                            <p class="sub-title">On Observation and Imagination</p>
+                            <p class="author">by Gillian Osborne</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
