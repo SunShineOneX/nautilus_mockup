@@ -47,8 +47,8 @@ function Channels() {
                         <div id="card" class="card">
                             <p>EARTH</p>
                             <img class="card-images" src={require("../assets/earth.jpeg")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Making Sense of the Genome at Last</p>
-                            <p class="author">by Adam Piere</p>
+                            <p class="sub-title">The Deep Time of Walden Pond</p>
+                            <p class="author">by Cart Stager</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -74,7 +74,7 @@ function Channels() {
                 <div class="row">
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p>BIOLOGY+BEYOND</p>
+                            <p>POETRY IN SCIENCE</p>
                             <img class="card-images" src={require("../assets/poetry.jpeg")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Making Sense of the Genome at Last</p>
                             <p class="author">by Adam Piere</p>
@@ -82,7 +82,7 @@ function Channels() {
                     </div>
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p>Women's Science & Engineering</p>
+                            <p>Aging</p>
                             <img class="card-images" src={require("../assets/aging.png")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Your Brain Is On the Brink of Chaos</p>
                             <p class="author">by Kelly Clancy</p>
@@ -90,7 +90,7 @@ function Channels() {
                     </div>
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p><strong>QUANTA</strong> ABSTRACTIONS</p>
+                            <p>SCIENCE PHILANTHROPY ALLIANCE</p>
                             <img class="card-images" src={require("../assets/alliance.png")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Mathematicians Calculate How Randomness Creeps In</p>
                             <p class="author">by Marcus Woo</p>
@@ -103,7 +103,7 @@ function Channels() {
                 <div class="row">
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p>BIOLOGY+BEYOND</p>
+                            <p>MP<strong>Neuro</strong></p>
                             <img class="card-images" src={require("../assets/maxplanck.jpeg")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Making Sense of the Genome at Last</p>
                             <p class="author">by Adam Piere</p>
