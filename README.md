@@ -2,6 +2,8 @@
 LINK:
 Nautilus-mockup.surge.sh
 
+![Project Showcase](https://github.com/SunShineOneX/nautilus_mockup/blob/master/naut-wireframe.png?raw=true)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
