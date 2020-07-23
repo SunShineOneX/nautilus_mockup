@@ -10,6 +10,9 @@ function Channels() {
             <p className="sub-header">TUNE IN TO NAUTILUS DEEP DIVE PORTALS</p>
             </div>
             <div class="card-deck" id="card-deck">
+
+                {/* First Row */}
+                
                 <div class="row">
                     <div class="col-lg-4">
                         <div id="card" class="card">
@@ -36,10 +39,13 @@ function Channels() {
                         </div>
                     </div>
                 </div>
+                
+                {/* Second Row */}
+                
                 <div class="row">
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p>BIOLOGY+BEYOND</p>
+                            <p>EARTH</p>
                             <img class="card-images" src={require("../assets/earth.jpeg")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Making Sense of the Genome at Last</p>
                             <p class="author">by Adam Piere</p>
@@ -47,7 +53,7 @@ function Channels() {
                     </div>
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p>Women's Science & Engineering</p>
+                            <p>THINK LIKE A SCIENTIST</p>
                             <img class="card-images" src={require("../assets/tlas.jpeg")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Your Brain Is On the Brink of Chaos</p>
                             <p class="author">by Kelly Clancy</p>
@@ -55,13 +61,16 @@ function Channels() {
                     </div>
                     <div class="col-lg-4">
                         <div id="card" class="card">
-                            <p><strong>QUANTA</strong> ABSTRACTIONS</p>
+                            <p><strong><i>cosmos</i></strong></p>
                             <img class="card-images" src={require("../assets/cosmos.jpeg")}className="card-img-top frag" alt=""></img>
                             <p class="sub-title">Mathematicians Calculate How Randomness Creeps In</p>
                             <p class="author">by Marcus Woo</p>
                         </div>
                     </div>
                 </div>
+                
+                {/* Third Row */}
+                
                 <div class="row">
                     <div class="col-lg-4">
                         <div id="card" class="card">
@@ -88,6 +97,9 @@ function Channels() {
                         </div>
                     </div>
                 </div>
+
+                {/* Fourth Row */}
+                
                 <div class="row">
                     <div class="col-lg-4">
                         <div id="card" class="card">
