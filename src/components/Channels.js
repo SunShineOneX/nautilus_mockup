@@ -92,8 +92,8 @@ function Channels() {
                         <div id="card" class="card">
                             <p>SCIENCE PHILANTHROPY ALLIANCE</p>
                             <img class="card-images" src={require("../assets/alliance.png")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Mathematicians Calculate How Randomness Creeps In</p>
-                            <p class="author">by Marcus Woo</p>
+                            <p class="sub-title">Taking to the Stars</p>
+                            <p class="author">by Science Philanthropy Alliance</p>
                         </div>
                     </div>
                 </div>
