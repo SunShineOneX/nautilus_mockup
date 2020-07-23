@@ -23,7 +23,7 @@ function Channels() {
                         </div>
                         <div class="col-lg-4">
                         <div id="card" class="card">
-                            Science
+                            <p><strong>QUANTA</strong> ABSTRACTIONS</p>
                         </div>
                         </div>
                     </div>
