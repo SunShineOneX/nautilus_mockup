@@ -55,8 +55,8 @@ function Channels() {
                         <div id="card" class="card">
                             <p>THINK LIKE A SCIENTIST</p>
                             <img class="card-images" src={require("../assets/tlas.jpeg")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Your Brain Is On the Brink of Chaos</p>
-                            <p class="author">by Kelly Clancy</p>
+                            <p class="sub-title">The Best Burger Place Is a Lab</p>
+                            <p class="author">by Thomas King</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
