@@ -63,8 +63,8 @@ function Channels() {
                         <div id="card" class="card">
                             <p><strong><i>cosmos</i></strong></p>
                             <img class="card-images" src={require("../assets/cosmos.jpeg")}className="card-img-top frag" alt=""></img>
-                            <p class="sub-title">Mathematicians Calculate How Randomness Creeps In</p>
-                            <p class="author">by Marcus Woo</p>
+                            <p class="sub-title">How Much Should Expectation Drive Science?</p>
+                            <p class="author">by Claudia Geib</p>
                         </div>
                     </div>
                 </div>
